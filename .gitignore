@@ -1,0 +1,14 @@
+# Python 虚拟环境与缓存
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.pyc
+
+# 编译产物
+*.exe
+*.class
+
+# 编辑器及临时文件
+.idea/
+~$*git remote -v
